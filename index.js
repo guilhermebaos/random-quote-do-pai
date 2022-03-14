@@ -103,7 +103,8 @@ const rawQuotes = `
 (102, 'É bastante improvável ir num avião com uma bomba. É por isso que eu levo sempre uma bomba comigo, porque ir num avião com duas bombas é ainda mais improvável.\n'),
 (103, 'Isto não é fast mecânica analítica, é slow mecânica analítica.\n'),
 (104, 'Bem meu caro, na vida nada é fácil, só no Facebook.\n'),
-(105, 'Este curso anda a ficar Tiplerizado...\n');
+(105, 'Este curso anda a ficar Tiplerizado...\n'),
+(106, 'Os engenheiros é que são os nabos... NÃO, ALIÁS, nós é que somos os inteligentes!'\n)
 `.split('\n')
 
 const quotes = []
