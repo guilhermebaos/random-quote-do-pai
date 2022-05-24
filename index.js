@@ -104,7 +104,19 @@ const rawQuotes = `
 (103, 'Isto não é fast mecânica analítica, é slow mecânica analítica.\n'),
 (104, 'Bem meu caro, na vida nada é fácil, só no Facebook.\n'),
 (105, 'Este curso anda a ficar Tiplerizado...\n'),
-(106, 'Os engenheiros é que são os nabos... NÃO, ALIÁS, nós é que somos os inteligentes!'\n)
+(106, 'Os engenheiros é que são os nabos... NÃO, ALIÁS, nós é que somos os inteligentes!'\n),
+(107, 'Eu não sou pago para pensar, sou pago para fazer problemas. \n'),
+(108, 'Como eu gosto de café e não de descafeinado, vou fazer as contas com a cafeína toda. \n'),
+(109, 'A soma de todos os bocadinhos dá o quê? DÁ O BOCADÃO! \n'),
+(110, 'O limite não existe em física e quem disser o contrário... epá, deixai-o dizer... \n'),
+(111, 'As contas boas são as contas onde a gente não tem de fazer contas. \n'),
+(112, '...só não vos mudam as fraldas porque se não era... era demasiado óbvio. \n'),
+(113, 'Aprender é como ir à casa de banho, é um processo pessoal e intransmissível. \n'),
+(114, 'Isto aqui é psicoterapia, aqui está tudo certo. Você diga o que lhe vem na alma. \n'),
+(115, 'Contas qualquer burro faz. Se quiser eu assino, podem por no Facebook. \n'),
+(116, 'Se existe tem nome. \n'),
+(117, 'Eu só faço perguntas inocentes. \n'),
+(118, 'Se na aula anterior tínhamos corda suficiente para nos enforcarmos, desta vez não temos. \n'),
 `.split('\n')
 
 const quotes = []
